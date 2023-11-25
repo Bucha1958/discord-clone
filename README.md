@@ -51,6 +51,4 @@ This is a feature-rich real-time messaging application that leverages Socket.io 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Bucha1958/discord-.git
-
->>>>>>> 77efbb5df8257396fb416545f3f3f76dff3c4d52
+   git clone https://github.com/Bucha1958/discord-clone.git
